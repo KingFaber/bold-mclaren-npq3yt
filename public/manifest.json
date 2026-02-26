@@ -1,0 +1,15 @@
+{
+  "short_name": "Loggia",
+  "name": "Gestione Loggia",
+  "icons": [
+    {
+      "src": "https://ui-avatars.com/api/?name=AEL&background=1C1A16&color=D4A017&size=512&font-size=0.4",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1C1A16",
+  "background_color": "#F7F4EE"
+}
